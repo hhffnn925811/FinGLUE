@@ -24,6 +24,8 @@ The FinGLUE benchmark will be regularly updated to incorporate new tasks and met
 ## Citation
 
 If you use FinGLUE in your research, please cite our work:
+
+```bibtex
 @article{finglue_aaai25,
 title={FinGLUE: A Comprehensive Benchmark for Evaluating Large Language Models in the Financial Domain},
 author={Zhuang Liu, Shuang Tian, Fangning Huo,Donghang Zheng,Ruitong Liu},
