@@ -21,6 +21,10 @@ This repository contains the FinGLUE benchmark, a comprehensive evaluation suite
 
 The FinGLUE benchmark will be regularly updated to incorporate new tasks and metrics, reflecting the evolving needs of the financial industry. Future work will explore the environmental impact of LLMs in finance, addressing issues such as energy consumption.
 
+## Contact
+
+For questions or contributions, please open an issue or contact [ZhuangLiu](mailto:liuzhuang@dufe.edu.cn).
+
 ## Citation
 
 If you use FinGLUE in your research, please cite our work:
@@ -34,8 +38,5 @@ year={2025}
 }
 
 
-## Contact
-
-For questions or contributions, please open an issue or contact [ZhuangLiu](mailto:liuzhuang@dufe.edu.cn).
 
 
